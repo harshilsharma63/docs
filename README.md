@@ -1,4 +1,4 @@
-# Mattermost Documentation
+# Mattermost Documentation - Test
 
 This repository generates the documentation available at https://docs.mattermost.com/. All documentation is available under the terms of a [Creative Commons License](https://creativecommons.org/licenses/by-nc-sa/3.0/).
 
